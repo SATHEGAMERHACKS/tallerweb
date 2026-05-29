@@ -1,0 +1,6 @@
+@CrudMicroservicios_HostAddress = http://localhost:5007
+
+GET {{CrudMicroservicios_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
